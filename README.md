@@ -1,6 +1,9 @@
 # parseFilmApp
 Web-App for my employer
 
+# before start
+type `pip install -r requirements.txt`
+
 # commands && instuctions
 type `python3 manage.py parsemovies` to parse movies from top-300 to the database.
 it is slow command, so wait a minute before starting the app.
